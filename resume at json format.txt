@@ -1,0 +1,83 @@
+{
+  "basics": {
+    "name": "Ragavendran",
+    "label": "Programmer",
+    "image": "",
+    "email": "aeroragavendra@gmail.com",
+    "phone": "+91 7010330751",
+    "url": "https://ragavendran.com",
+    "summary": "A summary of ragavendran",
+    "location": {
+      "address": "no 4 sakthi nager,thiyagadurgam",
+      "postalCode": "606206",
+      "city": "kalla kurichi",
+      "countryCode": "+91",
+      "region": "tamil nadu"
+    },
+    "profiles": [{
+      "network": "Twitter",
+      "username": "Ragavendran",
+      "url": "https://twitter.com/Ragavendran"
+    }]
+  },
+  
+  
+  }],
+  "education": [{
+    "institution": "Anna University",
+    "url": "https://institution.com/",
+    "area": "Software Development",
+    "score": "4.0",
+    "courses": [
+      "DB1101 - Basic SQL"
+    ]
+  }],
+  "certificates": [{
+    "name": "Certificate",
+    "date": "2021-11-07",
+    "issuer": "Company",
+    "url": "https://certificate.com"
+  }],
+  "skills": [{
+    "name": "Web Development",
+    "level": "beginer",
+    "keywords": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ]
+  }],
+  "languages": [{
+    "language": "English",
+    "fluency": "Native speaker"
+  }],
+  "interests": [{
+    "name": "Wildlife",
+    "keywords": [
+      "Ferrets",
+      "Unicorns"
+    ]
+  }],
+  "references": [{
+    "name": "Jane Doe",
+    "reference": "Reference…"
+  }],
+  "projects": [{
+    "name": "Project",
+    "description": "Description…",
+    "highlights": [
+      "Won award at AIHacks 2016"
+    ],
+    "keywords": [
+      "HTML"
+    ],
+    "startDate": "2019-01-01",
+    "endDate": "2021-01-01",
+    "url": "https://project.com/",
+    "roles": [
+      "Team Lead"
+    ],
+    "entity": "Entity",
+    "type": "application"
+  }]
+}
